@@ -1,1 +1,0 @@
-# remore-config-firebase
